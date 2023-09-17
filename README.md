@@ -1,1 +1,1 @@
-# TemperatureTransition
+# JapanTemperatureMap

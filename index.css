@@ -1,0 +1,13 @@
+h2 {
+    text-align: center;
+}
+
+#content {
+    width: 600px;
+    margin: auto;
+}
+
+#info-container {
+    margin-top: 10px;
+    color: #888888;
+}
